@@ -14,25 +14,18 @@ Desenvolvendo projetos práticos com análise de dados reais e visualizações i
 
 ---
 
-**Analista de Dados em formação** com foco em **Business Intelligence** e **Análise de Dados**. Atualmente cursando bootcamp na **SoulCode Academy**, desenvolvendo habilidades em **Python**, **SQL**, **Power BI**, **Looker**, e **Cloud Computing**
-
----
-
-### 🎯 **Foco e Objetivo Profissional**  
-
-#### 🧭 **Foco Atual:**  
-- 🚀 Conseguir minha primeira experiência  
-- 📚 Estudar as bases técnicas e práticas para definir minha área de atuação  
-- 🔍 Identificar meus interesses e pontos de destaque para direcionar minha carreira  
-
-#### 🎯 **Objetivo:**  
-- 💡 Atuar como **Analista de Dados**, contribuindo com insights estratégicos e soluções baseadas em dados.  
-- 🛠️ Aplicar conhecimentos em **Python**, **SQL**, **Power BI** e **Cloud Computing** para resolver problemas reais.  
-- 📊 Desenvolver projetos práticos que demonstrem minha capacidade de análise e visualização de dados.  
+### 🚀 Analista de Dados em Formação  
+Atualmente cursando o bootcamp de **Análise de Dados** na **SoulCode Academy**, desenvolvendo habilidades em:  
+- **Python** (Pandas, PySpark, NumPy)  
+- **SQL** e **NoSQL**  
+- **Visualização de Dados** (Power BI, Looker)  
+- **Cloud Computing** (AWS, Google Cloud)
 
 ---
 
 ### **Habilidades e Ferramentas**  
+
+### 🛠️ **Habilidades e Ferramentas**  
 
 #### Linguagens e Tecnologias:  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
@@ -46,12 +39,6 @@ Desenvolvendo projetos práticos com análise de dados reais e visualizações i
 #### Cloud Computing:  
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)  
-
-#### Outras Ferramentas:  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)  
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 📫 **Como me encontrar:**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stella-fernandes-a79089166/)  
