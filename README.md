@@ -1,27 +1,19 @@
 ## Olá! Eu sou a Stella 👋  
 
-Que legal você aqui! Aproveita para dar uma olhada em como está sendo minha jornada
-
-📊 **Estatísticas do Perfil:**  
-![GitHub Last Commit](https://img.shields.io/github/last-commit/sfer26/sfer26)
-![Profile Views](https://komarev.com/ghpvc/?username=sfer26&color=blue)
----
-
-Desenvolvendo projetos práticos com análise de dados reais e visualizações interativas no **Bootcamp Análise de Dados**
-
-[![CommitsSince](https://img.shields.io/github/commits-since/sfer26/BOOTCAMP_SOULCODE_AN-DADOS/2025-02-01.svg?color=green&label=Commits+no+Bootcamp+desde+Fev+de+2025)](https://github.com/sfer26/BOOTCAMP_SOULCODE_AN-DADOS)
-![GitHub Stars](https://img.shields.io/github/stars/sfer26/BOOTCAMP_SOULCODE_AN-DADOS?style=social)
-
 ---
 
 ### 🚀 Analista de Dados em Formação  
-Atualmente cursando o bootcamp de **Análise de Dados** na **SoulCode Academy**, desenvolvendo habilidades em:  
+Atualmente cursando o bootcamp de **Analista de dados** na **SoulCode Academy** e o curso de **Análise de Dados** do **Google + CIEE** na **Coursera**, desenvolvendo habilidades em:  
 - **Python** (Pandas, PySpark, NumPy)  
 - **SQL** e **NoSQL**  
 - **Visualização de Dados** (Power BI, Looker)  
-- **Cloud Computing** (AWS, Google Cloud)
-
+- **Cloud Computing** (AWS, Google Cloud)  
 ---
+
+**Bootcamp Análise de Dados**
+
+[![CommitsSince](https://img.shields.io/github/commits-since/sfer26/BOOTCAMP_SOULCODE_AN-DADOS/2025-02-01.svg?color=green&label=Commits+no+Bootcamp+desde+Fev+de+2025)](https://github.com/sfer26/BOOTCAMP_SOULCODE_AN-DADOS)
+![GitHub Stars](https://img.shields.io/github/stars/sfer26/BOOTCAMP_SOULCODE_AN-DADOS?style=social)
 
 ### **Habilidades e Ferramentas**  
 
@@ -39,6 +31,13 @@ Atualmente cursando o bootcamp de **Análise de Dados** na **SoulCode Academy**,
 #### Cloud Computing:  
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)  
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sfer26&show_icons=true&theme=radical)  
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=sfer26&layout=compact&theme=radical) 
+
+---
 
 📫 **Como me encontrar:**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stella-fernandes-a79089166/)  
