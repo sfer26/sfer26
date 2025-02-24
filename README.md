@@ -34,8 +34,8 @@ Atualmente cursando o bootcamp de **Analista de dados** na **SoulCode Academy** 
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sfer26&show_icons=true&theme=radical)  
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=sfer26&layout=compact&theme=radical) 
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sfer26&show_icons=true&theme=radical&card_width=400) | ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=sfer26&layout=compact&theme=radical&card_width=400) |
+|-------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------|
 
 ---
 
