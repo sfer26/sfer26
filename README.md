@@ -6,7 +6,7 @@
 - **Python** (Pandas, PySpark, NumPy)  
 - **SQL** e **NoSQL**  
 - **Visualização de Dados** (Power BI, Looker)  
-- **Cloud Computing** (AWS, Google Cloud)  
+- **Cloud Computing** (Google Cloud)  
 ---
 
 **Bootcamp Análise de Dados**
