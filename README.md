@@ -2,8 +2,7 @@
 
 ---
 
-### 🚀 Analista de Dados em Formação  
-Atualmente cursando o bootcamp de **Analista de dados** na **SoulCode Academy** e o curso de **Análise de Dados** do **Google + CIEE** na **Coursera**, desenvolvendo habilidades em:  
+### 🚀 Analista de Dados em Formação   
 - **Python** (Pandas, PySpark, NumPy)  
 - **SQL** e **NoSQL**  
 - **Visualização de Dados** (Power BI, Looker)  
@@ -28,10 +27,8 @@ Atualmente cursando o bootcamp de **Analista de dados** na **SoulCode Academy** 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
 ![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white)  
 
-#### Cloud Computing:  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+#### Cloud Computing:   
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)  
-
 ---
 
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sfer26&show_icons=true&theme=radical&card_width=400) | ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=sfer26&layout=compact&theme=radical&card_width=400) |
