@@ -1,6 +1,8 @@
 ## Olá! Eu sou a Stella 🦁
 
-Fascinada pela mágica de transformar dados em clareza. Como Analista de Dados, o meu foco está na construção de pipelines de dados e na análise profunda para desvendar o cenário por trás dos números. Com um background em Python, SQL e Google Cloud, estou trilhando o meu caminho em direção à Engenharia de Dados e busco oportunidades onde possa aplicar a minha curiosidade e a minha capacidade de resolução de problemas.
+#### *Fascinada pela mágica de transformar dados em clareza*
+
+Analista de Dados com experiência em projetos práticos (SQL, Python, Looker Studio) e habilidade para criar narrativas (storytelling) que geram valor para o negócio. Minha principal motivação é a curiosidade para ir além dos números, entendendo o contexto de negócio para gerar insights acionáveis.
 
 ---
 
