@@ -1,17 +1,33 @@
-## Olá! Eu sou a Stella
 
-### Sobre Mim:
+<table>
+  <tr>
+    <td width="220" valign="middle" align="center"> <img src="assets/hi_im.gif" alt="Olá, eu sou a Stella" width="200"/>
+      <br><br> <strong>Oi, Sou Stella!</strong> </td>
+    <td valign="middle">
+      <h3>Sobre Mim:</h3>
+      <h5><em>Fascinada pela mágica de transformar dados em clareza</em></h5>
+      <p>
+      Analista de Dados com experiência em projetos práticos (SQL, Python, Looker Studio) e habilidade para criar narrativas (storytelling) que geram valor para o negócio. Minha principal motivação é a curiosidade para ir além dos números, entendendo o contexto do projeto para gerar insights acionáveis e que realmente possam fazer a diferença.
+      </p>
+      <ul>
+        <li>Estudando para área de dados
+          <ul>
+            <li>Foco em aprimorar as skills em SQL; recursos para Data Visualization; Teste de hipótese e Teste A/B</li>
+          </ul>
+        </li>
+        <li>Participando do Programa Oracle Next Education | G9
+          <ul>
+            <li>Trilha de Especialização em Data Science</li>
+          </ul>
+        </li>
+      </ul>
+      <blockquote>
+        <em>Estou no ínicio dos meus estudos e carreira na área de dados, mas tenho muita vontade de aprender e principalmente curiosidade para ir além</em>
+      </blockquote>
+    </td>
+  </tr>
+</table>
 
-##### *Fascinada pela mágica de transformar dados em clareza*
-
-Analista de Dados com experiência em projetos práticos (SQL, Python, Looker Studio) e habilidade para criar narrativas (storytelling) que geram valor para o negócio. Minha principal motivação é a curiosidade para ir além dos números, entendendo o contexto do projeto para gerar insights acionáveis e que realmente possam fazer a diferença.
-
-- Estudando para área de dados
-  - Foco em aprimorar as skills em SQL; recursos para Data Visualization; Teste de hipótese e Teste A/B
-- Participando do Programa Oracle Next Education | G9
-  - Trilha de Especialização em Data Science
-
-> *Estou no ínicio dos meus estudos e carreira na área de dados, mas tenho muita vontade de aprender e principalmente curiosidade para ir além*
 
 
 
