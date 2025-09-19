@@ -1,13 +1,21 @@
-## Olá! Eu sou a Stella 🦁
+## Olá! Eu sou a Stella
 
-#### *Fascinada pela mágica de transformar dados em clareza*
+### Sobre Mim:
 
-Analista de Dados com experiência em projetos práticos (SQL, Python, Looker Studio) e habilidade para criar narrativas (storytelling) que geram valor para o negócio. Minha principal motivação é a curiosidade para ir além dos números, entendendo o contexto de negócio para gerar insights acionáveis.
+##### *Fascinada pela mágica de transformar dados em clareza*
 
----
+Analista de Dados com experiência em projetos práticos (SQL, Python, Looker Studio) e habilidade para criar narrativas (storytelling) que geram valor para o negócio. Minha principal motivação é a curiosidade para ir além dos números, entendendo o contexto do projeto para gerar insights acionáveis e que realmente possam fazer a diferença.
+
+- Estudando para área de dados
+  - Foco em aprimorar as skills em SQL; recursos para Data Visualization; Teste de hipótese e Teste A/B
+- Participando do Programa Oracle Next Education | G9
+  - Trilha de Especialização em Data Science
+
+> *Estou no ínicio dos meus estudos e carreira na área de dados, mas tenho muita vontade de aprender e principalmente curiosidade para ir além*
+
+
 
 ### 🚀 Projetos em Destaque
-
 
 <table>
   <tr>
@@ -38,6 +46,8 @@ Analista de Dados com experiência em projetos práticos (SQL, Python, Looker St
   </p>
   <a href="https://github.com/sfer26/BOOTCAMP_SOULCODE_AN-DADOS/tree/main/Analise-Pagamentos-BR">➡️ Ver o projeto</a>
 </td>
+  </tr>
+</table>
 
 ---
 
@@ -45,12 +55,10 @@ Analista de Dados com experiência em projetos práticos (SQL, Python, Looker St
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![NoSQL](https://img.shields.io/badge/NoSQL-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ---
